@@ -1,0 +1,348 @@
+username=udesc1
+userfullname=[UDESC]#teamLovelace
+
+username=udesc2
+userfullname=[UDESC]Peter engordou
+
+username=udesc3
+userfullname=[UDESC]The Lunatics
+
+username=udesc4
+userfullname=[UDESC]Os Padre do Balão 
+
+username=udesc5
+userfullname=[UDESC]Jaguatiricas do Sul
+
+username=udesc6
+userfullname=[UDESC]Two and a half Programmers
+
+username=team7
+userfullname=[UFSC-FLO]URSAL 2.0
+
+username=team8
+userfullname=[UNOESC]scanf("%s",  name);
+
+username=team9
+userfullname=[UNIFEI]Time do dia Seguinte 
+
+username=team10
+userfullname=[UFPR]BrunoTissei
+
+username=udesc11
+userfullname=[UDESC]amigos do Tuca :///
+
+username=udesc12
+userfullname=[UDESC]Codeplay
+
+username=udesc13
+userfullname=[UDESC]Happy Three Friends
+
+username=team14
+userfullname=[IFCE]Só um doido
+
+username=team15
+userfullname=[UFAL]Os k-ésimos
+
+username=team16
+userfullname=[IFCE]Não sei 
+
+username=udesc17
+userfullname=[UDESC]NoTalentFoundException
+
+username=udesc18
+userfullname=[UDESC]deepgeladeira
+
+username=team19
+userfullname=[UFMG & UFF]Diego Rangel e Gabriel Duarte, O Retorno
+
+username=udesc20
+userfullname=[UDESC]NP-Credito
+
+username=team21
+userfullname=[IFCE]L.A
+
+username=team22
+userfullname=[IFCE]SeDerDeu
+
+username=team23
+userfullname=[IFCE]Uma tartaruga em cima do poste 
+
+username=udesc24
+userfullname=[UDESC]MakeMeAMeme
+
+username=udesc25
+userfullname=[UDESC]TOP DJ
+
+username=udesc26
+userfullname=[UDESC]Amigos do Antonio 
+
+username=team27
+userfullname=[UFG]Los Axiomas Supremos
+
+username=team28
+userfullname=[PUG-GO]M0RF3US
+
+username=team29
+userfullname=[PUG-GO]Cangaceiros do forró
+
+username=team30
+userfullname=[PUG-GO]Smurf 
+
+username=team31
+userfullname=[UFG]Pitchulinha
+
+username=udesc32
+userfullname=[UDESC]Code Coffee
+
+username=team33
+userfullname=[PUC Goiás]Batatas
+
+username=team34
+userfullname=[UFSC-FLO]Tenkiu nets
+
+username=udesc35
+userfullname=[UDESC]μDa1λNaΘ
+
+username=team36
+userfullname=[UFSC-FLO]Team Gado
+
+username=team37
+userfullname=[UFSC-FLO]Silogismo Disjuntivo
+
+username=team38
+userfullname=[UFSC-FLO]Biridim
+
+username=team39
+userfullname=[UFSC-FLO]Thiago
+
+username=udesc40
+userfullname=[UDESC]loopTree ♣
+
+username=team41
+userfullname=[UFSC-FLO]?????
+
+username=udesc42
+userfullname=[UDESC] Omae wa mou shindeiru
+
+username=udesc43
+userfullname=[UDESC]Los Hermanitos
+
+username=team44
+userfullname=[UNESC]UNESC 001
+
+username=team45
+userfullname=[UNOESTE][HAM].?
+
+username=team46
+userfullname=[IFSULDEMINAS]Vainasort
+
+username=team47
+userfullname=[FACIT]Será que ainda sei passar problemas?
+
+username=team48
+userfullname=[FACIT]^a-
+
+username=udesc49
+userfullname=[UDESC]Tempestade Elétrica
+
+username=team50
+userfullname=[UFG]Pombo Fumado
+
+username=team51
+userfullname=[UFF]Melkor
+
+username=team52
+userfullname=[UFSC]Black Sea of Ignorance
+
+username=team53
+userfullname=[SAP]CuscoHouse
+
+username=team54
+userfullname=[UFSC-FLO]Shakira Shakira
+
+username=team55
+userfullname=[IFSULDEMINAS]One
+
+username=team56
+userfullname=[Unifei]Ok
+
+username=udesc57
+userfullname=[UDESC]Reis do Abdôme
+
+username=udesc58
+userfullname=[UDESC]Azul
+
+username=udesc59
+userfullname=[UDESC]Amanhã tem GoT
+
+username=team60
+userfullname=[UFG]Joaquin Teixeira
+
+username=team61
+userfullname=[UFSC]Nem Djikstra e nem DP
+
+username=team62
+userfullname=[UFSC]Roger
+
+username=team63
+userfullname=[UFG]Pequipe
+
+username=team64
+userfullname=[UFG]Lonely monkey
+
+username=udesc65
+userfullname=[UDESC]C+-
+
+username=team66
+userfullname=[UNIFEI]Epic Nuclear Guys
+
+username=team67
+userfullname=[PUC Goias]Caçadores de Pequi 
+
+username=team68
+userfullname=[IFMS Aquidauana]Santa Trindade da Procrastinação
+
+username=team69
+userfullname=little monkey
+
+username=udesc70
+userfullname=[UDESC]EmacsSucks
+
+username=team71
+userfullname=[UFFS]Fuga das Galinhas
+
+username=team72
+userfullname=[UFSCar]gatopreto
+
+username=team73
+userfullname=[IFMS]TSI Intrusos
+
+username=yuri
+userfullname=Yuri Kaszubowski Lopes - Admin
+
+username=staffutfprdv
+userfullname=Staff UTFPR-DV
+
+username=scoreutfprdv
+userfullname=PLACAR UTFPR-DV
+
+username=utfprdv01
+userfullname=[UTFPR-DV]NMD.
+
+username=utfprdv02
+userfullname=[UTFPR-DV]Os 0b00000011 Mosqueteiros
+
+username=utfprdv03
+userfullname=[UTFPR-DV]Ziiiischhhh
+
+username=utfprdv04
+userfullname=[UTFPR-DV]Two and a Half Men
+
+username=utfprdv05
+userfullname=[UTFPR-DV]Infinite loop
+
+username=utfprdv06
+userfullname=[UTFPR-DV]QWERTY
+
+username=utfprdv07
+userfullname=[UTFPR-DV]Ladeira abaixo
+
+username=utfprdv08
+userfullname=[UTFPR-DV]utfprdv08
+
+username=utfprdv09
+userfullname=[UTFPR-DV]utfprdv09
+
+username=utfprdv10
+userfullname=[UTFPR-DV]utfprdv10
+
+username=utfprdv11
+userfullname=[UTFPR-DV]utfprdv11
+
+username=utfprdv12
+userfullname=[UTFPR-DV]utfprdv12
+
+username=utfprdv13
+userfullname=[UTFPR-DV]utfprdv13
+
+username=utfprdv14
+userfullname=[UTFPR-DV]utfprdv14
+
+username=utfprdv15
+userfullname=[UTFPR-DV]utfprdv15
+
+username=utfprdv16
+userfullname=[UTFPR-DV]utfprdv16
+
+username=utfprdv17
+userfullname=[UTFPR-DV]utfprdv17
+
+username=aprender01
+userfullname=[UTFPR-DV/SUDOTEC]Aprender e Crescer 1
+
+username=aprender02
+userfullname=[UTFPR-DV/SUDOTEC]Aprender e Crescer 2
+
+username=aprender03
+userfullname=[UTFPR-DV/SUDOTEC]Aprender e Crescer 3
+
+username=team400
+userfullname=AVULSO400
+
+username=team401
+userfullname=AVULSO401
+
+username=team402
+userfullname=AVULSO402
+
+username=team403
+userfullname=AVULSO403
+
+username=team404
+userfullname=AVULSO404
+
+username=team405
+userfullname=AVULSO405
+
+username=team406
+userfullname=AVULSO406
+
+username=team407
+userfullname=AVULSO407
+
+username=team408
+userfullname=AVULSO408
+
+username=team409
+userfullname=AVULSO409
+
+username=team410
+userfullname=AVULSO410
+
+username=team411
+userfullname=AVULSO411
+
+username=team412
+userfullname=AVULSO412
+
+username=team413
+userfullname=AVULSO413
+
+username=team414
+userfullname=AVULSO414
+
+username=team415
+userfullname=AVULSO415
+
+username=team416
+userfullname=AVULSO416
+
+username=team417
+userfullname=AVULSO417
+
+username=team418
+userfullname=AVULSO418
+
+username=team419
+userfullname=AVULSO419
+

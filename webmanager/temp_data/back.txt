@@ -1,0 +1,59 @@
+udesc1 : UDESC #teamLovelace
+udesc2 : UDESC Peter engordou
+udesc3 : UDESC The Lunatics
+udesc4 : UDESC Os Padre do Balão 
+udesc5 : UDESC Jaguatiricas do Sul
+udesc6 : UDESC Two and a half Programmers
+team7 : UFSC-FLO URSAL 2.0
+team8 : UNOESC scanf("%s",  name);
+team9 : Unifei Time do dia Seguinte 
+team10 : UFPR BrunoTissei
+udesc11 : UDESC amigos do Tuca :///
+udesc12 : UDESC Codeplay
+udesc13 : UDESC Happy Three Friends
+team14 : IFCE Aracati  Só um doido
+team15 : UFAL Os k-ésimos
+team16 : IFCE Não sei 
+udesc17 : UDESC NoTalentFoundException
+udesc18 : UDESC deepgeladeira
+team19 : UFMG & UFF Diego Rangel e Gabriel Duarte, O Retorno
+udesc20 : UDESC NP-Credito
+team21 : IFCE L.A
+team22 : IFCE Campus de Cedro SeDerDeu
+team23 : IFCE - ARACATI Uma tartaruga em cima do poste 
+udesc24 : UDESC MakeMeAMeme
+udesc25 : UDESC TOP DJ
+udesc26 : UDESC Amigos do Antonio 
+team27 : UFG-Campus Samanbaia Los Axiomas Supremos
+team28 : PUG-GO M0RF3US
+team29 : PUG-GO Cangaceiros do forró
+team30 : PUG-GO Smurf 
+team31 : Universidade Federal de Goiás Pitchulinha
+udesc32 : UDESC Code Coffee
+team33 : Pontifícia Universidade Católica de Goiás  Batatas
+team34 : UFSC-FLO Tenkiu nets
+udesc35 : UDESC Eu e todos meus amigos
+team36 : UFSC-FLO Team Gado
+team37 : UFSC-FLO Silogismo Disjuntivo
+team38 : UFSC-FLO Biridim
+team39 : UFSC-FLO Thiago
+udesc40 : UDESC loopTree ♣
+team41 : UFSC-FLO ?????
+udesc42 : UDESC  Omae wa mou shindeiru
+udesc43 : UDESC Los Hermanitos
+team44 : UNESC UNESC 001
+team45 : UNOESTE [HAM].?
+team46 : IFSULDEMINAS Vainasort
+team47 : FACIT Será que ainda sei passar problemas?
+team48 : FACIT - Faculdade de Ciências e Tecnologia de Montes Claros ^a-
+team49 : UDESC-CCT Tempestade Elétrica
+team50 : UFG Pombo Fumado
+team51 : UFF Melkor
+team52 : UFSC Black Sea of Ignorance
+team53 : SAP CuscoHouse
+team54 : UFSC-FLO Shakira Shakira
+team55 : Instituto Federal Sul de Minas - Campus Poços de Caldas One
+team56 : Unifei Ok
+udesc57 : UDESC Reis do Abdôme
+udesc58 : UDESC Azul
+udesc59 : UDESC Amanhã tem GoT

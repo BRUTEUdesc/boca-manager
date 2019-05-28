@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="styles.css">
+		<div class="footer">
+			<div class="img-wrap">
+				<img src="images/logo_udesc.png" alt="logo_udesc" width="5%"/>
+				<img src="images/logo_maratona.png" alt="logo_maratona" width="5%"/>
+				<img src="images/logo_brute.png" alt="logo_brute" width="5%"/>
+			</div>
+		</div>
+		
+		<script type="text/javascript" src="jquery-3.4.0.min.js"></script>
+		
+		<script>
+			function showAll() {
+				jQuery.get('usernames.txt', (data) => {
+					teams = data.split("\n");
+					let content = "<p class=\"list\">";
+					//content += "usuario : time<br><br>"
+					for(let i=0; i<teams.length; i++){
+						//zap = teams[i].split(" ");
+						//if(zap[0] == "")
+						//	continue;
+						//content += zap[0] + " ";
+						//for(let j=1; j < zap.length; j++){
+						//	content += zap[j] + " ";
+						//}
+						content += teams[i];
+						//if(i % 2)
+						//	content += "<br>"
+						content += "<br>";
+					}
+					content += "</p>";
+					document.getElementById('content').innerHTML = content;
+				});		
+			}
+		</script>
+	</head>
+	
+	<body style="background-color: black">
+
+											<!-- Navigation Bar ini -->
+		<ul>
+			<li><a href="http://200.19.107.69/brute">BRUTE</a></li>
+			<li><a href="http://200.19.107.69/past">COMPETIÇÕES</a></li>
+			<li><a href="http://200.19.107.69/">HOME</a></li>
+			<li style="float:left"><a style="background-color: #CD4A4A;" href="http://200.19.107.69/boca">BOCA</a></li>
+		</ul>
+											<!-- Navigation Bar end -->
+
+		<h1> Bem vindo ao ambiente de competição <br> BOCA da Udesc </h1>	
+		
+		<div class="img-wrap">
+			<a class="button" style="max-width:155px;" href="http://200.19.107.69/certificados">CERTIFICADOS</a>
+			<br>
+			<a class="button" onclick="showAll()">TIMES</a>
+			<a class="button" href="http://200.19.107.69/maratona.pdf">PDF</a>
+			
+		</div>
+		
+		<div id="content">
+		
+		</div>
+				
+	</body>
+</html>

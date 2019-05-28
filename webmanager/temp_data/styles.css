@@ -1,0 +1,134 @@
+/* Custom Scrollbar Only for Chrome - Safari - Opera*/
+
+::-webkit-scrollbar {
+	width: 0.3%;
+}
+
+::-webkit-scrollbar-track {
+	background-color: black;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #CD4A4A;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #CD2A2A;
+}
+
+
+
+/* Normal CSS */
+
+body {
+	margin-top:90px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: fixed;
+	top: 0px;
+	width:100%;
+	background-color:black;
+
+}
+
+li {
+	float: right;
+}
+
+li a {
+	display: block;
+	color: white;
+    font: normal normal normal 20px courier new;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	background-color: #444;
+}
+
+.active {
+	background-color: #CD4A4A;
+}
+
+.footer {
+	left: 0;
+	position: fixed;
+	bottom: 0;
+	width:100%;
+	text-align: center;
+	background-color: black;
+}
+
+.button {
+    display: block;
+    text-align: center;
+    max-width:56px;
+    margin:0 auto;
+    vertical-align: middle;
+    padding: 9px 46px;
+    border: 1px solid #822020;
+    border-radius: 4px;
+    background: #f53d3d;
+    background: -webkit-gradient(linear, left top, left bottom, from(#f53d3d), to(#822020));
+    background: -moz-linear-gradient(top, #CD4A4A, #822020);
+    background: linear-gradient(to bottom, #CD4A4A, #822020);
+    text-shadow: #4d1313 1px 1px 1px;
+    font: normal normal normal 20px courier new;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid #CD4A4A;
+    background: #CD4A4A;
+    background: -webkit-gradient(linear, left top, left bottom, from(#CD4A4A), to(#CD4A4A));
+    background: -moz-linear-gradient(top, #CD4A4A, #CD4A4A);
+    background: linear-gradient(to bottom, #CD4A4A, #CD4A4A);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #CD4A4A;
+    background: -webkit-gradient(linear, left top, left bottom, from(#CD4A4A), to(#CD4A4A));
+    background: -moz-linear-gradient(top, #CD4A4A, #CD4A4A);
+    background: linear-gradient(to bottom, #CD4A4A, #CD4A4A);
+}
+
+.img-wrap, h1 {
+	text-align:center;
+	color:white;
+	font: normal bold normal 48px courier new;
+}
+.img-wrap a img {
+	display:block;
+	padding:10px;
+}
+.img-wrap > a {
+	display:inline-block;
+	vertical-align:center;
+}
+
+.info {
+	color:white;
+	font: normal normal normal 20px courier new;
+	text-align:justify;
+	max-width:50%;
+	margin: 0 auto;
+}
+
+.list {
+	color:white;
+	font: normal normal normal 20px oswald;
+	text-align:left;
+	max-width:50%;
+	margin: 0 auto;	
+	margin-bottom: 105px;
+}

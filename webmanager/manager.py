@@ -11,6 +11,7 @@ app.secret_key = b'_9%!@L"9Ylg58zCP]0'
 
 @app.route('/')
 @app.route('/index')
+@app.route('/home')
 def index():
     if 'username' in session:
         return render('index.html', logged=escape(session['username']))
@@ -28,8 +29,9 @@ def certificados():
 def login():
     return render('login.html')
 
-@app.route('/past')
+@app.route('/past', methods=['POST', 'GET'])
 def past():
+    if method
     return render('past.html')
 
 

@@ -1,0 +1,20 @@
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/styles.css') }}">
+  <div class="footer">
+    <div class="img-wrap">
+      <img src="{{url_for('static', filename='images/logo_udesc.png') }}" alt="logo_udesc" width="5%"/>
+      <img src="{{url_for('static', filename='images/logo_maratona.png') }}" alt="logo_maratona" width="5%"/>
+      <img src="{{url_for('static', filename='images/logo_brute.png') }}" alt="logo_brute" width="5%"/>
+    </div>
+  </div>
+
+      <!-- Navigation Bar ini -->
+  <ul>
+  <li><a href="{{url_for('brute') }}">BRUTE</a></li>
+  <li><a href="{{url_for('past') }}">COMPETIÇÕES</a></li>
+  <li><a href="{{url_for('index') }}">HOME</a></li>
+  <li style="float:left"><a style="background-color: #CD4A4A;" href="http://200.19.107.69/boca">BOCA</a></li>
+  </ul>
+      <!-- Navigation Bar end -->
+</head>
